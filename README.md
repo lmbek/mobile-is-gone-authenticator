@@ -5,7 +5,7 @@ Fun use case: In case mobile phone is out of battery, but we need to have emerge
 we could hold a list of many different TOTP's <br>
 
 ## How to use
-Add a google_secret.txt and do 
+Add a secrets/google_secret.txt and do 
 
     go run .
 
